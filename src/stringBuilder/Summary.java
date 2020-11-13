@@ -5,6 +5,11 @@ import java.sql.SQLOutput;
 public class Summary {
     public static void main(String[] args) {
         /*
+        Link
+        https://docs.google.com/presentation/d/1FJxNjsimlU9ZVohMZeqY9gpMdkLNjPwob2LtdB9zPwI/edit#slide=id.p
+         */
+        
+        /*
         Normally equals method is looking for the location of the
         elements in the java memory, if they have the same spot or not.
         But String changes(override) this method according to it's needs
