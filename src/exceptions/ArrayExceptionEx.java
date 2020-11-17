@@ -14,6 +14,12 @@ public class ArrayExceptionEx {
 
         System.out.println("Fourth line");
         System.out.println("Fifth line");
+
+        try {
+            Thread.sleep(3000);
+        } catch (Exception e) {
+
+        }
     }
 
     private static void print4hItemInArray(int[] myIntArray) {
