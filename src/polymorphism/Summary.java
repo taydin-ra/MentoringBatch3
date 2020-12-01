@@ -32,7 +32,7 @@ public class Summary {
         //System.out.println(iphone.name);
         iphone.text();
 
-
+       // iphone android=new android();  You can not do this because there isn't any relationship between iphone and android
     }
 }
 

@@ -15,6 +15,14 @@ public class AnotherClass extends DifferentClass { // child class
 
 
 
+        String name="Turkana";
+        name=name.concat("Mammadova");  // Strings are reference type, not primitive data type
+
+        System.out.println(name);
+
+
+
+
 
 
     }
